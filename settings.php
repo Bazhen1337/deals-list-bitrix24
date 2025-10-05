@@ -2,8 +2,8 @@
 error_reporting(0);
 ini_set('display_errors', 0);
 
-define('C_REST_CLIENT_ID', 'local.68e2a59f397144.82091125'); //Application ID
-define('C_REST_CLIENT_SECRET', 'KMrL5oI3dGtK5dpOqRGTR16buKxEKPhZgqlyXZvoD2CiQe6XRs'); //Application key
+define('C_REST_CLIENT_ID', 'your_client_id'); //Application ID
+define('C_REST_CLIENT_SECRET', 'your_client_secret'); //Application key
 
 //define('C_REST_WEB_HOOK_TOKEN', '5bxqeukozsla3ipeo576hjf58gkdaget');
 
